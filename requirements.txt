@@ -1,0 +1,10 @@
+llama-index
+google-generativeai
+pinecone-client
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-pinecone
+
+flask
+python-dotenv
+gunicorn
