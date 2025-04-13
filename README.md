@@ -1,7 +1,3 @@
-To create a proper guided README for your repository, I'll draft a template below based on common best practices for Python projects and the assumption that the repository is a chatbot-related project. Feel free to modify it based on your specific project details.
-
----
-
 # Chatbot
 
 A Python-based chatbot designed to provide interactive and intelligent conversational experiences for users. This project can be customized and extended to suit various use cases.
